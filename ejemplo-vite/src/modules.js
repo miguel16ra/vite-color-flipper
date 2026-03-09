@@ -10,3 +10,5 @@ export const sayHello = () => {
 const DEV_LAN = "JavaScript";
 
 export default DEV_LAN;
+
+console.log("Hello");
